@@ -263,3 +263,11 @@ ul li a:hover{
 .icons ion-icon:hover{
     color: #ff7200;
 }
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
